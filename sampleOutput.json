@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Laura Sharman",
+            "title": "‘Sadistic sexual killer’ jailed for murder 30 years after he was cleared of the crime",
+            "description": "David Smith, from Middlesex, killed 21-year-old Amanda Walker after being allowed to walk free for the murder of Sarah Crump whose body was found “brutally mutilated” in 1991",
+            "url": "http://www.independent.co.uk/news/uk/crime/david-smith-murder-sarah-crump-b2346398.html",
+            "urlToImage": "https://static.independent.co.uk/2023/05/26/12/PA-801714.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-05-26T12:37:43Z",
+            "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nA Jack-the-Ripper-style killer has been jailed for m… [+5053 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "BRIAN WITTE Associated Press",
+            "title": "Adnan Syed's murder conviction on hold for now, as Maryland Supreme Court considers appeal",
+            "description": "Maryland’s highest court has issued an order to prevent Adnan Syed's murder conviction from being reinstated by a lower court, as the court decides whether to hear his appeal of the lower court’s decision",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/maryland-supreme-court-orders-stay-adnan-syed-case-99616051",
+            "urlToImage": "https://s.abcnews.com/images/US/wirestory_549a9607b24abcd1d1ea4fc6c69f2db3_16x9_992.jpg",
+            "publishedAt": "2023-05-25T22:20:08Z",
+            "content": "ANNAPOLIS, Md. -- Adnan Syed will not return to jail and his murder conviction is on hold, for now, as Maryland's Supreme Court decides whether to hear his appeal. \r\nThe state's highest court issued … [+2464 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Khaleda Rahman",
+            "title": "Murder-Suicides Reach Record High",
+            "description": "The vast majority of murder-suicides are perpetrated by men, often using guns, experts told Newsweek. Societal factors may have made the problem worse.",
+            "url": "https://www.newsweek.com/murder-suicides-rise-why-domestic-violence-1786089",
+            "urlToImage": "https://d.newsweek.com/en/full/2206183/male-murder-suicides-rise.jpg",
+            "publishedAt": "2023-03-09T17:00:01Z",
+            "content": "<ul><li>Marla Hudgens and her three children were killed in a murder-suicide by her husband in November last year.</li><li>Research shows that such incidents are on the rise, with 2022 seeing the hig… [+11097 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Molly Hayes",
+            "title": "OPP officers provide testimony at inquest into 2015 triple murders",
+            "description": "Four OPP officers addressed difficulties they had while discovering three deaths in 2015 connected by intimate partner violence",
+            "url": "https://www.theglobeandmail.com/canada/article-opp-provide-testimony-at-inquest-into-2015-triple-murders/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/B_0AHIFyolFcOl24Dt2Q82GJ_f4=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/BPRCBGA52VCDHGHL2GMDLH2QSA.JPG",
+            "publishedAt": "2022-06-16T01:18:17Z",
+            "content": "A real estate billboard of slain Anastasia Kuzyk along Highway 60 in Wilno, Ont., in 2015.Dave Chan/The Globe and Mail\r\nAs soon as she heard Anastasia Kuzyks address read out over her police radio on… [+4544 chars]"
+        }
+    ]
+}
